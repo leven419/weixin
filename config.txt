@@ -1,7 +1,7 @@
 {
 # 公众号配置
 # 公众号appId  wxd73c58758131a1a3 wx1e99fbb0d608789c
-"app_id": "wx1e99fbb0d608789c",
+"app_id": "wxd73c58758131a1a3",
 # 公众号appSecret f2ec0a71ba0e9f8cef103995280ccba8 6a71c62fc1fbc5c89248a35adf291421 
 "app_secret": "6a71c62fc1fbc5c89248a35adf291421",
 # 模板消息id 100000004 MzjqPu3UifmSUQdf5A81XYIbHecDcRw8lwxG1Zlb7S4
